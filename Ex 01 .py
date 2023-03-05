@@ -1,4 +1,4 @@
-# First test from hackerRank 
+# First test from hackerRank (Learning Python)
 import math
 import os
 import random
