@@ -10,4 +10,3 @@ if list(x) == list(y):
 else:
      print('Nope ! It is not a Plindrome')
 
-print("THE END")
