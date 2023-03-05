@@ -9,3 +9,5 @@ if list(x) == list(y):
      print('Yes ! The given String is a Palindrome')
 else:
      print('Nope ! It is not a Plindrome')
+
+print("THE END")
